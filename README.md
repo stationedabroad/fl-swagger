@@ -1,1 +1,2 @@
-## flask-plus with swagger intro
+## flask-plus with swagger
+- basic api with some doco
